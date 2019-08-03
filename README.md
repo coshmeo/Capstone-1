@@ -1,4 +1,4 @@
-# Capstone-1
+# Predicting Credit Card Default Using Random Forest
 First capstone project for the Springboard data science career track.
 
 Project report PDF contains the written report for this project. 
